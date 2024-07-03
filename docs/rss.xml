@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Zhong Hanlu's blog</title><link>https://zhonghanlu.github.io/zhl.github.io</link><description>Share my tech life</description><copyright>Zhong Hanlu's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/77484950?s=400&amp;u=7b0b92bf5587ea0595bbf9ce7c8191c20b63110c&amp;v=4</url><title>avatar</title><link>https://zhonghanlu.github.io/zhl.github.io</link></image><lastBuildDate>Wed, 03 Jul 2024 08:00:14 +0000</lastBuildDate><managingEditor>Zhong Hanlu's blog</managingEditor><ttl>60</ttl><webMaster>Zhong Hanlu's blog</webMaster><item><title>ArchLinux</title><link>https://zhonghanlu.github.io/zhl.github.io/post/ArchLinux.html</link><description>---&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Zhong Hanlu's blog</title><link>https://zhonghanlu.github.io/zhl.github.io</link><description>Share my tech life</description><copyright>Zhong Hanlu's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/77484950?s=400&amp;u=7b0b92bf5587ea0595bbf9ce7c8191c20b63110c&amp;v=4</url><title>avatar</title><link>https://zhonghanlu.github.io/zhl.github.io</link></image><lastBuildDate>Wed, 03 Jul 2024 08:03:03 +0000</lastBuildDate><managingEditor>Zhong Hanlu's blog</managingEditor><ttl>60</ttl><webMaster>Zhong Hanlu's blog</webMaster><item><title>Shell </title><link>https://zhonghanlu.github.io/zhl.github.io/post/Shell%20.html</link><description>---&#13;
+&#13;
+title: Shell （尚硅谷转载）&#13;
+&#13;
+date: 2022-12-6 15:52:221&#13;
+&#13;
+description: Shell编程基础入门&#13;
+&#13;
+keywords: Shell&#13;
+&#13;
+tags: Shell&#13;
+&#13;
+categories: Shell&#13;
+&#13;
+---&#13;
+&#13;
+# 第1章 Shell概述&#13;
+&#13;
+大数据程序员为什么要学习Shell呢？&#13;
+&#13;
+1）需要看懂运维人员编写的Shell程序。</description><guid isPermaLink="true">https://zhonghanlu.github.io/zhl.github.io/post/Shell%20.html</guid><pubDate>Wed, 03 Jul 2024 08:02:42 +0000</pubDate></item><item><title>ArchLinux</title><link>https://zhonghanlu.github.io/zhl.github.io/post/ArchLinux.html</link><description>---&#13;
 title: ArchLinux install&#13;
 &#13;
 date: 2022-9-19 16:34:03&#13;
