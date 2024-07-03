@@ -1,2 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Zhong Hanlu's blog</title><link>https://zhonghanlu.github.io/zhl.github.io</link><description>Share my tech life</description><copyright>Zhong Hanlu's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/77484950?s=400&amp;u=7b0b92bf5587ea0595bbf9ce7c8191c20b63110c&amp;v=4</url><title>avatar</title><link>https://zhonghanlu.github.io/zhl.github.io</link></image><lastBuildDate>Wed, 03 Jul 2024 07:46:47 +0000</lastBuildDate><managingEditor>Zhong Hanlu's blog</managingEditor><ttl>60</ttl><webMaster>Zhong Hanlu's blog</webMaster><item><title>HelloWorld</title><link>https://zhonghanlu.github.io/zhl.github.io/post/HelloWorld.html</link><description># HelloGmeek。</description><guid isPermaLink="true">https://zhonghanlu.github.io/zhl.github.io/post/HelloWorld.html</guid><pubDate>Wed, 03 Jul 2024 07:38:42 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Zhong Hanlu's blog</title><link>https://zhonghanlu.github.io/zhl.github.io</link><description>Share my tech life</description><copyright>Zhong Hanlu's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/77484950?s=400&amp;u=7b0b92bf5587ea0595bbf9ce7c8191c20b63110c&amp;v=4</url><title>avatar</title><link>https://zhonghanlu.github.io/zhl.github.io</link></image><lastBuildDate>Wed, 03 Jul 2024 08:00:14 +0000</lastBuildDate><managingEditor>Zhong Hanlu's blog</managingEditor><ttl>60</ttl><webMaster>Zhong Hanlu's blog</webMaster><item><title>ArchLinux</title><link>https://zhonghanlu.github.io/zhl.github.io/post/ArchLinux.html</link><description>---&#13;
+title: ArchLinux install&#13;
+&#13;
+date: 2022-9-19 16:34:03&#13;
+&#13;
+description: WIN11 完整刷机 ArchLinux&#13;
+&#13;
+keywords: ArchLinux&#13;
+&#13;
+tags: &#13;
+  - ArchLinux&#13;
+  - System&#13;
+&#13;
+categories: ArchLinux&#13;
+---&#13;
+&#13;
+### 切换之前&#13;
+&#13;
+​	为啥需要换做ArchLinux系统呢，作为一个开发就应该用属于开发的系统，好不好！！！ 其实也是因为自己买不起MAC。</description><guid isPermaLink="true">https://zhonghanlu.github.io/zhl.github.io/post/ArchLinux.html</guid><pubDate>Wed, 03 Jul 2024 07:59:52 +0000</pubDate></item><item><title>HelloWorld</title><link>https://zhonghanlu.github.io/zhl.github.io/post/HelloWorld.html</link><description># HelloGmeek。</description><guid isPermaLink="true">https://zhonghanlu.github.io/zhl.github.io/post/HelloWorld.html</guid><pubDate>Wed, 03 Jul 2024 07:38:42 +0000</pubDate></item></channel></rss>
